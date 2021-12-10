@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.012" height="21.475" viewBox="0 0 20.012 21.475">
+  <g id="user_icon_white" transform="translate(-17.44)">
+    <g id="Group_2" data-name="Group 2" transform="translate(17.44 12.096)">
+      <g id="Group_1" data-name="Group 1" transform="translate(0)">
+        <path id="Path_1" data-name="Path 1" d="M27.446,288.389c-6.452,0-10.006,3.052-10.006,8.6a.784.784,0,0,0,.784.784H36.668a.784.784,0,0,0,.784-.784C37.452,291.442,33.9,288.389,27.446,288.389Zm-8.41,7.811c.308-4.144,3.134-6.244,8.41-6.244s8.1,2.1,8.41,6.244Z" transform="translate(-17.44 -288.389)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_4" data-name="Group 4" transform="translate(22.247)">
+      <g id="Group_3" data-name="Group 3" transform="translate(0)">
+        <path id="Path_2" data-name="Path 2" d="M137.248,0a5.137,5.137,0,0,0-5.2,5.3,5.216,5.216,0,1,0,10.4,0A5.137,5.137,0,0,0,137.248,0Zm0,9.379A3.877,3.877,0,0,1,133.617,5.3a3.564,3.564,0,0,1,3.631-3.736A3.6,3.6,0,0,1,140.879,5.3,3.877,3.877,0,0,1,137.248,9.379Z" transform="translate(-132.049)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

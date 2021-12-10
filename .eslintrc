@@ -1,0 +1,12 @@
+{
+    "plugins": ["react"],
+    // "processor": "disable/disable",
+    "overrides": [
+      {
+        "files": ["tests/**/*.test.js"],
+        "settings": {
+          "disable/plugins": ["react"]
+        }
+      }
+    ]
+  }

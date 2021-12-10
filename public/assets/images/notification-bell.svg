@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="36" viewBox="0 0 30 36">
+  <g id="notification-bell" transform="translate(-2)">
+    <g id="Group_1" data-name="Group 1" transform="translate(14 0)">
+      <path id="Path_1" data-name="Path 1" d="M15.25,6.27a.75.75,0,0,1-.75-.75V3a1.5,1.5,0,0,0-3,0V5.52a.75.75,0,1,1-1.5,0V3a3,3,0,0,1,6,0V5.52A.749.749,0,0,1,15.25,6.27Z" transform="translate(-10 0)"/>
+    </g>
+    <g id="Group_2" data-name="Group 2" transform="translate(11.75 30)">
+      <path id="Path_2" data-name="Path 2" d="M13.75,26A5.256,5.256,0,0,1,8.5,20.75a.75.75,0,0,1,1.5,0,3.75,3.75,0,0,0,7.5,0,.75.75,0,0,1,1.5,0A5.256,5.256,0,0,1,13.75,26Z" transform="translate(-8.5 -20)"/>
+    </g>
+    <g id="Group_3" data-name="Group 3" transform="translate(2 4.5)">
+      <path id="Path_3" data-name="Path 3" d="M29.75,30H4.25a2.25,2.25,0,0,1-1.462-3.96A10.429,10.429,0,0,0,6.5,18.057V13.5a10.5,10.5,0,0,1,21,0v4.557a10.417,10.417,0,0,0,3.7,7.973A2.25,2.25,0,0,1,29.75,30ZM17,4.5a9.009,9.009,0,0,0-9,9v4.557a11.917,11.917,0,0,1-4.232,9.119A.75.75,0,0,0,4.25,28.5h25.5a.75.75,0,0,0,.488-1.32A11.926,11.926,0,0,1,26,18.057V13.5a9.009,9.009,0,0,0-9-9Z" transform="translate(-2 -3)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,87 @@
+/*General Style */
+
+.link-hover:hover{
+color:var(--txt-secondary-color) !important;
+}
+
+.validation-error{
+    border: 1px solid red !important
+    }
+    .error-message {
+        color: red;
+        font-size: 13px;
+        line-height: 16px;
+    }
+
+.sidebar__menu-scroll {
+width: 100%;
+height: -moz-calc(100% - 300px) !important;
+height: -webkit-calc(100% - 300px) !important;
+height: calc(100% - 300px) !important;
+}
+
+.btn-loader span{
+    left: 50px;
+}
+
+.content-area.white-bg {
+    position: relative;
+}
+
+.invied-btn{
+    font-size: 12px;
+    cursor: auto !important;
+}
+
+.cursor-pointer{
+    cursor: pointer;
+}
+
+/* NOtification table */
+.three-col-table .notification__action{
+width: auto;
+}
+
+.three-col-table .notification__action a{
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+}
+.three-col-table .notification__action a img{
+    width: 13px;
+    height: 13px;
+}
+
+.custom-table td{
+    text-transform: capitalize;
+}
+
+
+/* favourite */
+
+.favourite-option input:checked + label i{
+    color:#ed702c;
+}
+
+/* Confirm modal */
+
+.btn-success {
+    color: #fff;
+    background-color: #28a745 !important;
+    border-color: #28a745 !important;
+}
+
+
+.btn-danger {
+    color: #fff;
+    background-color: #fa0707 !important;
+    border-color: #fa0707 !important;
+}
+
+.box__content {
+    min-height: 117px !important;
+}
+
+img.pencil {
+    height: 15px;
+}
